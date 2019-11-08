@@ -21,7 +21,7 @@
     </modules>
 
     <properties>
-        <netty.version>4.1.22.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
         <springboot.version>1.5.9.RELEASE</springboot.version>
         <protostuff.version>1.6.0</protostuff.version>
         <lombok.version>1.18.2</lombok.version>
